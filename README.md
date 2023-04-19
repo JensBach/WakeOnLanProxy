@@ -1,4 +1,5 @@
-
+# WakeOnLanProxy
+a WOL proxy in C#
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -28,5 +29,4 @@ Jens Bach - Jensb82@gmail.com
 
 
 
-# WakeOnLanProxy
-a WOL proxy in C#
+
